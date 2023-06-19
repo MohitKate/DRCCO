@@ -1,0 +1,10 @@
+.transaction-details-table thead th {
+  background-image: linear-gradient(#4a5158, #111314);
+  font-size: 12px;
+  color: white;
+  padding-bottom: 0.5%;
+}
+
+.transaction-details-table tbody td {
+  font-size: 12px;
+}

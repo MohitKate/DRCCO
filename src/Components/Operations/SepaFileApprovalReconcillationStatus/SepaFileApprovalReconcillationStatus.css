@@ -1,0 +1,116 @@
+
+  .tableFordata thead th {
+    background-image: linear-gradient(#4a5158, #111314);
+    font-size: 12px;
+    color: white;
+    padding-bottom: 0.5%;
+  }
+.tableFordata tbody td {
+    font-size: 12px;
+  }
+  .tableFordata {
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+  
+  }
+
+  .alignColumnspace th {
+    text-align: center;
+    min-width: 90px;
+    font-size: 3px;
+  }
+  .alignColumnsforCAMT054file th{
+    text-align: center;
+    min-width: 200px;
+  }
+  
+
+  .sepaTable-in-transaction tbody tr th {
+    white-space: nowrap;
+    font-weight: bolder;
+    height: 10px;
+   color: black;
+   padding-top: 10px;
+    text-align: center;
+  
+   border: solid black 1px;
+    font-size: 12px;
+    
+  }
+  .sepaTable-in-transaction tbody tr td{
+    white-space: nowrap;
+    font-size: 12px;
+    border: solid black 1px;
+  }
+
+  .transaction-table1 thead tr th {
+    background-image: linear-gradient(#4a5158, #111314);
+   color: white;
+   font-size: 12px;
+  }
+  .transaction-table2 thead tr th {
+    background-image: linear-gradient(#4a5158, #111314);
+   color: white;
+   font-size: 12px;
+  }
+.table-bordered{
+  font-size: 12px;
+}
+
+
+.swal-button {
+  background-color: #91bed5;
+  color: #fff;
+  border: none;
+  box-shadow: none;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 10px 24px;
+  margin: 0;
+  cursor: pointer;
+}
+.swal-text {
+ 
+  font-size: 18px;
+  position: relative;
+  float: none;
+  line-height: normal;
+  vertical-align: top;
+  text-align: left;
+  display: inline-block;
+  margin: 0;
+  padding: 0 10px;
+  font-weight: bolder;
+  color: rgba(0,0,0,.64);
+  max-width: calc(100% - 20px);
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+}
+
+.sepa-dropdownCss {
+
+  background-image: url("../../../Assets/image//carat.png") !important;
+  display: block;
+  width: 100%;
+  padding: 0.310rem 3rem 0.350rem 0.75rem !important;
+  -moz-padding-start: calc(0.75rem - 3px) !important;
+  font-size: 14px !important;
+  font-weight: 400;
+  line-height: 1.5 !important;
+  color: #212529;
+  background-color: #fff;
+  background-size: 33px 32px !important;
+  border-radius: 0 !important;
+  background-position-x: right;
+  background-position-y: 0px;
+
+}
+
+.style-for-search{
+  border: 1px solid #aaa;
+  border-radius: 5px 0 0 5px !important;
+  font-size: 13px;
+  
+ }

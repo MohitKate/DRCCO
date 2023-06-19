@@ -1,0 +1,38 @@
+.resend-dropdown{
+  background-image: url("../../../Assets/image//carat.png") !important;
+  display: block;
+  width: 100%;
+  padding: 0.378rem 3rem 0.375rem 0.75rem !important;
+  -moz-padding-start: calc(0.75rem - 3px) !important;
+  font-size: 14px !important;
+  font-weight: 400;
+  line-height: 1.5 !important;
+  color: #212529;
+  background-color: #fff;
+  background-size: 33px 33px !important;
+  border-radius: 0 !important;
+  background-position-x: right;
+  background-position-y: 0px;
+}
+.resend-input-width{
+  width: 15%;
+}
+
+.style-for-search{
+  border: 1px solid #aaa;
+  border-radius: 5px 0 0 5px !important;
+  font-size: 13px;
+  
+ }
+
+
+
+ .transactions-table thead th {
+  background-image: linear-gradient(#4a5158, #111314);
+  font-size: 12px;
+  color: white;
+  padding-bottom: 0.5%;
+}
+.transactions-table tbody td {
+  font-size: 12px;
+}

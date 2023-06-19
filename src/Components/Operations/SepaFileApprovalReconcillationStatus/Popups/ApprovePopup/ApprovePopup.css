@@ -1,0 +1,17 @@
+.approve-popup tbody tr th {
+  white-space: nowrap;
+    font-weight: bolder;
+    height: 10px;
+   color: black;
+   padding-top: 10px;
+    text-align: center;
+  
+   border: solid black 1px;
+    font-size: 12px;
+  
+}
+.approve-popup tbody tr td{
+  white-space: nowrap;
+  font-size: 12px;
+  border: solid black 1px;
+}

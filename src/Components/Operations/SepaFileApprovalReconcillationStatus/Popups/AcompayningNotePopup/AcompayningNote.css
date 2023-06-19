@@ -1,0 +1,26 @@
+
+.accompayning-table-header{
+  background-color: rgb(109, 139, 139);
+  font-size: 13px;
+}
+
+.accompayning-table tbody> tr>th:nth-child(1){
+  border: 1px solid #fff;
+  background-color:rgb(75 85 98);
+  color: rgb(236, 231, 231);
+  font-size: 13px;
+}
+
+.accompayning-table>div{
+ 
+  background-color: rgb(109, 139, 139);
+  font-size: 13px;
+  
+}
+
+
+.accompayning-table tbody tr> td{
+  border: 1px solid black;
+  background-color: white;
+  font-size: 13px;
+}

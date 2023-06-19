@@ -1,0 +1,71 @@
+.date-picker {
+
+  background-image: url("../../../Assets/image/calendar1.png") !important;
+  background-repeat: no-repeat;
+  background-position-x: 2rem  !important;
+  opacity: 0.8;
+}
+.date-picker {
+  
+  margin-left: 135px;
+  display: block;
+  width: 100%;
+  padding: 0.375rem 3rem 0.375rem 0.75rem !important;
+  -moz-padding-start: calc(0.75rem - 3px) !important;
+  font-size: 17px !important;
+  font-weight: 400;
+  line-height: 2.5 !important;
+  color: #212529;
+  background-color: #fff;
+  background-size: 26px 29px !important;
+  border-radius: 0 !important;
+  background-position: 132px !important;
+}
+.date-picker {
+  display: block;
+  width: 36%;
+
+}
+
+.date-pickercamt .react-datepicker {
+  border: none !important;
+  border-style: none !important;
+}
+.date-pickercamt .react-datepicker__input-container{
+  border: none !important; 
+  border-style: none !important;
+}
+ .react-datepicker-wrapper{
+  border: none !important; 
+  border-style: none !important;
+}
+
+.borderStyle{
+  border: none !important;
+}
+
+.date-pickercamt {
+
+  display: block;
+  width: 100%;
+  padding: 0.378rem 3rem 0.375rem 0.75rem !important;
+  -moz-padding-start: calc(0.75rem - 3px) !important;
+  font-size: 14px !important;
+  font-weight: 400;
+  line-height: 1.5 !important;
+  color: #212529;
+  background-color: #fff;
+  background-size: 33px 33px !important;
+  border-radius: 0 !important;
+  background-position-x: right;
+  background-position-y: 0px;
+}
+.date-pickercamt {
+
+  background-image: url("../../../Assets/image/DatepickerImage.png") !important;
+  background-repeat: no-repeat;
+  border: 0;
+  border-style: none !important;
+}
+
+

@@ -1,0 +1,116 @@
+
+.btn-primary {
+
+  --bs-btn-bg: #1a2e4b;
+}
+
+
+
+.tableheaders {
+  white-space: nowrap;
+  margin-top: 0%;
+  height: 10px;
+}
+
+
+
+.navigationroute {
+  color: black;
+  font-size: 12px;
+  margin-left: -83%;
+  margin-top: 12px;
+
+}
+
+
+.camt-input-width{
+  width: 15%;
+}
+.date-width{
+  width: 102%;
+}
+
+
+
+
+
+.accompayningnote-table thead th {
+  background-image: linear-gradient(#4a5158, #111314);
+  font-size: 12px;
+  color: white;
+  padding-bottom: 0.5%;
+}
+.accompayningnote-table tbody td {
+  font-size: 12px;
+}
+
+
+.ErrorMessage {
+  color: red;
+ font-size: 15px;
+
+}
+
+
+
+.downloadDropdown {
+
+  background-color: #1a2e4b;
+  border-radius: 0%;
+  position: absolute;
+  margin: auto;
+  right: 0%;
+  margin-top: 2%;
+
+}
+
+.downloadDropdown.dropdown-toggle::after {
+  font-size: 29px;
+  margin-left: 0.19rem;
+  vertical-align: -0.2rem;
+  color: white;
+}
+
+
+
+
+.downloadButtonImage {
+  position: absolute;
+  height: 20px;
+  margin-top: 2px;
+  margin-left: -14px;
+
+  cursor: pointer;
+}
+
+.downloadButtonImage1 {
+  position: absolute;
+  height: 20px;
+  margin-top: 2px;
+  margin-left: -14px;
+
+  cursor: pointer;
+}
+
+
+
+
+
+.camt-dropdownCss {
+
+  background-image: url("../../../Assets/image//carat.png") !important;
+    display: block;
+    width: 100%;
+    padding: 0.378rem 3rem 0.375rem 0.75rem !important;
+    -moz-padding-start: calc(0.75rem - 3px) !important;
+    font-size: 14px !important;
+    font-weight: 400;
+    line-height: 1.5 !important;
+    color: #212529;
+    background-color: #fff;
+    background-size: 33px 34px !important;
+    border-radius: 0 !important;
+    background-position-x: right;
+    background-position-y: 0px;
+
+}

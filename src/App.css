@@ -1,0 +1,409 @@
+.App {
+  text-align: center;
+ 
+
+}
+#telefonica {
+  background-color: #d9e3e4;
+}
+
+
+
+.visibleAlertForApproval1{
+  color: rgb(17, 202, 17);
+  background-color: white;
+  font-weight: bold;
+  
+  border-radius: 7px;
+  /* margin-right: 58px; */
+ 
+  
+}
+
+
+
+.visibleAlertForReject1{
+  color:red;
+  background-color: white;
+  font-weight: bold;
+  border-radius: 7px;
+ 
+}
+
+.sepafilelink a{
+  color: blue !important;
+  text-decoration: underline !important;
+  cursor: pointer !important;
+ 
+ 
+}
+
+
+
+
+.tableFordataCamt053Table {
+  width: min-content;
+
+}
+
+.colorforPain002 {
+  color: black;
+}
+
+.tableFordataSepaFilenReconciliationStatusCamt053Table {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.sepaapprovalreconcilation-camt054-table {
+  margin-right: 30px;
+  margin-left: 30px;
+
+}
+
+.sepaapprovalreconcilation-notapproved-table {
+  margin-right: 30px;
+  margin-left: 30px;
+
+}
+
+.sepaapprovalreconcilation-approved-table {
+  margin-right: 30px;
+  margin-left: 30px;
+
+}
+
+.commentbox-text {
+  border: 2px solid green !important;
+ 
+}
+
+.commentbox-notext {
+  border: 2px solid red !important;
+
+}
+
+/* .tableFordata1{
+  
+} */
+#topTable .lbltd {
+
+  width: 8%;
+  white-space: nowrap;
+
+  text-align: right !important;
+
+  font-weight: 700 !important;
+
+}
+
+#topTable .fldtd {
+
+  width: 15% !important;
+
+}
+
+#topTable-notIn-time-processed .lbltd{
+  width: 8%;
+white-space: nowrap;
+  text-align: right !important;
+
+  font-weight: 700 !important;
+
+}
+#topTable-notIn-time-processed .fldtd {
+
+  width: 18% !important;
+
+}
+.paginate_button.current:hover {
+  color: #91bed5 !important;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background-color: #91bed5;
+  background: linear-gradient(to bottom, #91bed5 0%, #91bed5 100%);
+}
+
+
+.tableStyle {
+  background: #fff !important;
+  padding-top: 7px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  width: 100%;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px #4a5158;
+  margin-bottom: 1rem;
+  
+
+}
+
+.tableStyle1 {
+  background: #fff !important;
+  padding-top: 7px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  width: 100%;
+  height: 370px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px #4a5158;
+  margin-bottom: 1rem;
+ 
+
+}
+
+.searchbar-visible {
+  visibility: visible;
+}
+
+.searchbar-notvisible {
+  visibility: hidden;
+}
+
+#search {
+  border-radius: 8%;
+}
+
+/* thead tr th {
+  background-image: linear-gradient(#4a5158, #111314);
+  color: white;
+padding: -10px;
+} */
+
+
+.dataTables_wrapper .dataTables_filter {
+  padding-bottom: 2px;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+
+  padding: 4px;
+
+}
+
+
+table.dataTable thead>tr>th.sorting_asc:before, table.dataTable thead>tr>th.sorting_desc:after, table.dataTable thead>tr>td.sorting_asc:before, table.dataTable thead>tr>td.sorting_desc:after {
+  opacity: 1.0;
+}
+
+table.dataTable thead th, table.dataTable tbody th, table.dataTable tbody td {
+  padding: 5px 5px !important;
+}
+
+
+/* -------------------------------- */
+.react-datepicker-wrapper {
+  display: inline-block;
+  padding: 0;
+  border: 0;
+  width: 129%;
+}
+
+
+.date-pickercamt {
+  display: block;
+  width: 107%;
+
+}
+
+.visible-alert-header {
+  color: #324b57;
+  background-color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-left: 8px;
+  margin-right: 5px;
+  margin-top: 7px;
+  text-align: center;
+
+}
+
+.closebtn4 {
+  z-index: 99999;
+  /* margin-top: 37px; */
+  position: relative;
+  top: 48%;
+  height: 22px;
+  left: 77%;
+}
+
+.closebtn3 {
+  z-index: inherit;
+  margin-top: 37px;
+  position: absolute;
+  top: 10px;
+  height: 36px;
+  right: 132px;
+}
+
+.closebtn2 {
+  z-index: inherit;
+  margin-top: 37px;
+  position: absolute;
+  top: 10px;
+  height: 36px;
+  right: 132px;
+}
+.closebtn5{
+  z-index: 99999;
+  /* margin-top: 37px; */
+  position: relative;
+  top: 48%;
+  height: 22px;
+  left: 77%;
+
+}
+
+/* This css is for Tab Panel */
+#navtab .nav-link {
+  height: 45px;
+  color: #707375;
+  padding: auto;
+  background: #ccc;
+  padding: 8px 30px 8px 30px !important;
+  font-weight: 700;
+}
+
+
+
+#navtab .nav-link:hover, #navtab .nav-link.active {
+  color: #fff;
+  background: #212529;
+
+
+
+}
+
+
+
+@media only screen and (min-width: 600px) {
+  #navtab .nav-item {
+    border-right: none !important;
+  }
+}
+
+
+
+.form-control {
+  border-radius: 0 !important;
+}
+
+.dropdownCss {
+
+  background-image: url("./Assets/image/carat.png") !important;
+  display: block;
+  width: 100%;
+  padding: 0.378rem 3rem 0.375rem 0.75rem !important;
+  -moz-padding-start: calc(0.75rem - 3px) !important;
+  font-size: 14px !important;
+  font-weight: 400;
+  line-height: 1.5 !important;
+  color: #212529;
+  background-color: #fff;
+  background-size: 33px 29px !important;
+  border-radius: 0 !important;
+  background-position-x: 163px;
+  background-position-y: 2px;
+
+}
+
+
+.paginationCamtandTable {
+
+  margin-top: 42px;
+}
+
+.camtpagination {
+  margin-left: 756px;
+}
+
+.popover.show.bs-popover-auto {
+  position: absolute;
+  inset: 0px auto auto 0px;
+  transform: translate(1200px, 47px) !important;
+}
+
+span.arrow.popover-arrow {
+  position: absolute;
+  left: 0px;
+  transform: translate(105px, 0px) !important
+}
+
+
+.notapprovedPagination {
+  float: right;
+  height: 9px;
+  margin-top: 35px;
+  z-index: -2px;
+}
+
+.approvedPagination {
+  float: right;
+  height: 9px;
+  margin-top: 35px;
+  z-index: -2px;
+
+}
+
+
+.in-approval-rejct-pagination{
+  float: right;
+  margin: auto;
+}
+#search_input_container{
+  border: 1px solid black;
+  width: max-content;
+  border-radius: 25px;
+  
+  float: right;
+}
+.camt-pagination{
+  margin-left: 1026px;
+  /* height: 6px; */
+  margin-top: 30px;
+}
+
+.reconciled-status-popup thead th{
+  font-size: 13px;
+}
+.reconciled-status-popup tbody td{
+  font-size: 12px;
+}
+
+.modal{
+  --bs-modal-header-border-width: 0px !important;
+  --bs-modal-header-padding: 5px 5px !important;
+  --bs-modal-padding: 1rem 1rem !important;
+  
+}
+.btn-close {
+  margin-left: auto;
+  box-sizing: content-box;
+  width: 22px !important;
+  height: 22px !important;
+  padding: 0.25em 0.25em;
+  color: #000;
+  background: transparent url(../src/Assets/image/close.png) center/22px auto no-repeat !important;
+  border: 0;
+}
+
+
+
+
+
+
+.show-entries{
+  float: left;
+  margin-top: 10px;
+}
+.pain008navigationroute1 {
+  color: black;
+  font-size: 13px;
+
+  margin-left: -74%;
+  margin-top: 12px;
+
+}
+
+

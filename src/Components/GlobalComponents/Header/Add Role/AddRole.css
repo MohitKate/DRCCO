@@ -1,0 +1,26 @@
+.formcard{
+    margin-left: 380px;
+    margin-right: 300px;
+    padding: 40px 40px 40px 40px;
+    background-color: white;
+    width: 630px;
+}
+.input1{
+    border: #0066ff solid 2px;
+    border-radius: 0%;
+    width: 300px;
+    margin-left: 120px;
+}
+.input2{
+    border: #0066ff solid 2px;
+    border-radius: 0%;
+    width: 300px;
+    margin-left: 120px;
+}
+.addroleButton{
+    margin-top: 50px;
+    border-radius: 0%;
+    width: 190px;
+    background-color:#033c91;
+}
+

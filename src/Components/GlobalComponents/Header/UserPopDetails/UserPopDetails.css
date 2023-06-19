@@ -1,0 +1,39 @@
+.imageName_flexbox{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 15px;
+}
+
+.buttons_flexbox{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  column-gap: 15px;
+}
+
+.view_profile_tab{
+  padding: 5px;
+  margin-top: -36px;
+  border-radius: 0%;
+  text-decoration: none;
+  border: 1px solid blue;
+  float: right;
+  margin-right: 34px;
+  cursor: pointer;
+}
+
+.complete_details{
+  background-color: #d9e3e4;
+  font-size: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 2px;
+  margin: -17px 0px 0px 0px;
+}
+hr{
+  color: blue;
+  height: 5px;
+}
